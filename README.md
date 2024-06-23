@@ -1,8 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)]
 <h1 align="center">Hi 👋, I'm Shivansh Pratap Singh</h1>
 <h3 align="center">A passionate Computer Science Student from Delhi,India</h3>
-add Right Gif Image
-(img align="right" alt="Coding" width="400" src="https://opengameart.org/sites/default/files/preview_5.gif")
+add Right Gif Image (img align="right" alt="Coding" width="400" src="https://opengameart.org/sites/default/files/preview_5.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiiiivanshsingh&label=Profile%20views&color=0e75b6&style=flat" alt="hiiiivanshsingh" /> </p>
 
