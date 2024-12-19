@@ -103,6 +103,6 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=a8al1zw8j5yx7z9t5izqd2ctf&width=1000)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=a8al1zw8j5yx7z9t5izqd2ctf&width=1000&count=10)
 
 ###
