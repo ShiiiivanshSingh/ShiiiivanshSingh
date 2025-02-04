@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <h1>Hi there! 👋 I'm Shivansh Pratap Singh</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F87F5&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer+from+Delhi;Python+%7C+Django+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F87F5&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer+from+Delhi;Python+%7C+Django+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things;Full+Stack+Web+Developer;MERN+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -41,7 +41,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShiiiivanshSingh&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ShiiiivanshSingh&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+
 </div>
 
 <br/>
@@ -53,6 +53,11 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiiiivanshSingh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br/>
 <div align="center">
   <h3>💻 Tech Stack</h3>
   
@@ -81,11 +86,6 @@
   </details>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiiiivanshSingh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
 
 <br/>
 
