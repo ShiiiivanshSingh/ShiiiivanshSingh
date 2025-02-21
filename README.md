@@ -46,15 +46,19 @@
 
 <br/>
 
-<div align="center">
-  <h3>👁️ Profile Views</h3>
-  <img src="https://profile-counter.glitch.me/ShiiiivanshSingh/count.svg?" alt="Profile Views" />
-</div>
+
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiiiivanshSingh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+
+
+<div align="center">
+  <h3>👁️ Profile Views</h3>
+  <img src="https://profile-counter.glitch.me/ShiiiivanshSingh/count.svg?" alt="Profile Views" />
 </div>
 
 <br/>
