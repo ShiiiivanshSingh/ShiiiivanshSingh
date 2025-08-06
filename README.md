@@ -1,11 +1,16 @@
 <div align="center">
 
-<img width="3168" height="792" alt="Shivansh Pratap Singh(1)" src="https://github.com/user-attachments/assets/516ecf85-ed1e-4bcc-af8b-d00caae13485" />
+<a href="https://shiiiivanshsingh.github.io/intro/" target="_blank">
+  <img width="3168" height="792" alt="Shivansh Pratap Singh(1)" src="https://github.com/user-attachments/assets/516ecf85-ed1e-4bcc-af8b-d00caae13485" />
+</a>
 
 
   
   <a href="https://rishavchanda.io">
-<!--     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="100%"> -->
+<!-- 
+    do not read this meow
+    banner link https://www.canva.com/design/DAGvUGNILWE/NDQukf9AHDzPOLxrgrBvAA/edit?utm_content=DAGvUGNILWE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="100%"> -->
   </a>
 </div>
 <div align="center">
