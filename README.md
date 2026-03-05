@@ -1,109 +1,194 @@
 <div align="center">
 
 <a href="https://shiiiivanshsingh.github.io/intro/" target="_blank">
-  <img width="3168" height="792" alt="Shivansh Pratap Singh(1)" src="https://github.com/user-attachments/assets/516ecf85-ed1e-4bcc-af8b-d00caae13485" />
+  <img width="3168" height="792" alt="Shivansh Pratap Singh" src="https://github.com/user-attachments/assets/516ecf85-ed1e-4bcc-af8b-d00caae13485" />
 </a>
 
+<br/>
 
+# Hi there, I'm Shivansh Pratap Singh 👋
+
+**Developer · DSA Enthusiast · Open Source Contributor**
+
+<br/>
+
+<a href="https://linktr.ee/ShivanshPratapSingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=00FFA2&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/shivansh-pratap-singh-23b3b92b1" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
+<a href="https://x.com/de_mirage_fan" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
+<a href="https://www.instagram.com/shivansh___siingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
+<a href="https://www.youtube.com/@shivanshpratapsingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
+<a href="https://letterboxd.com/ShivanshSingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=00D735&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
   
-  <a href="https://rishavchanda.io">
-<!-- 
-    do not read this meow
-    banner link https://www.canva.com/design/DAGvUGNILWE/NDQukf9AHDzPOLxrgrBvAA/edit?utm_content=DAGvUGNILWE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="100%"> -->
-  </a>
-</div>
-<div align="center">
-  <h1>Hi there! 👋 I'm Shivansh Pratap Singh</h1>
-<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F87F5&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer+from+Delhi;Python+%7C+Django+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things;Full+Stack+Web+Developer;MERN+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" /> -->
-</div>
+## 🔗 Coding Profiles
 
-<br/>
 
-<div align="center">
-  <a href="https://linktr.ee/ShivanshPratapSingh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=00FFA2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@shivanshpratapsingh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/shivansh___siingh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>&nbsp;&nbsp;
-<!--   <a href="https://discord.gg/qxxPs9a9Ce" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a> -->
-</div>
-
-<div align="center">
-<!--   <a href="mailto:shivanshpratapsingh0807@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>&nbsp;&nbsp; -->
-  <a href="https://www.linkedin.com/in/shivansh-pratap-singh-23b3b92b1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/de_mirage_fan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShiiiivanshSingh&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ShivanshPratapSingh/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sha-vinshi)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shivanshpratt8cf)
+[![Devfolio](https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/@ShivanshOF)
+[![DSA Stats](https://img.shields.io/badge/DSA_Stats-D6536D?style=for-the-badge&logo=chart.js&logoColor=white)](https://codolio.com/profile/sh1vansh)
 
 </div>
 
 <br/>
 
+---
 
+## ✦ Featured Projects
+
+<div align="center">
+
+| Project | Description | Live | Repo |
+|---|---|---|---|
+| **[Leet Tracker](https://leet-trackr-one.vercel.app)** | Track your LeetCode progress, streaks, and stats in one clean dashboard | [live ↗](https://leet-trackr-one.vercel.app) | [repo](https://github.com/ShiiiivanshSingh/LeetTrackr) |
+| **[Flag Guess](https://shiiiivanshsingh.github.io/Flag-Guess-/game.html)** | A geography guessing game — identify countries by their flags | [live ↗](https://shiiiivanshsingh.github.io/Flag-Guess-/game.html) | [repo](https://github.com/ShiiiivanshSingh/Flag-Guess-) |
+| **[Overdrop](https://shiiiivanshsingh.github.io/Overdrop/)** | Real-time weather conditions and forecasts at a glance | [live ↗](https://shiiiivanshsingh.github.io/Overdrop/) | [repo](https://github.com/ShiiiivanshSingh/Overdrop) |
+| **[MET Museum Art](https://shiiiivanshsingh.github.io/art/)** | Fetches random artworks from the MET Museum API — popular & explorer modes | [live ↗](https://shiiiivanshsingh.github.io/art/) | [repo](https://github.com/ShiiiivanshSingh/art) |
+
+</div>
 
 <br/>
 
+---
+
+## 🌐 More Projects
+
+<details>
+<summary><b>Web — Utility & Tools</b></summary>
+<br/>
+
+| Project | Links |
+|---|---|
+| Leet Tracker | [live ↗](https://leet-trackr-one.vercel.app) · [repo](https://github.com/ShiiiivanshSingh/LeetTrackr) |
+| Image to Text | [live ↗](https://shiiiivanshsingh.github.io/img2txt/) · [repo](https://github.com/ShiiiivanshSingh/img2txt) |
+| Expense Tracker | [live ↗](https://shiiiivanshsingh.github.io/CashCatcher/index.html) · [repo](https://github.com/ShiiiivanshSingh/CashCatcher) |
+| TaskPop | [live ↗](https://shiiiivanshsingh.github.io/TaskPop/) · [repo](https://github.com/ShiiiivanshSingh/TaskPop) |
+| Gen QR | [live ↗](https://shiiiivanshsingh.github.io/GenQR/) · [repo](https://github.com/ShiiiivanshSingh/GenQR) |
+| Quick Share | [live ↗](https://shiiiivanshsingh.github.io/Python-File-Sharing/WEB/fp.html) · [repo](https://github.com/ShiiiivanshSingh/Python-File-Sharing) |
+| Focus Buddy | [live ↗](https://pomodoro-app-ten-kappa.vercel.app) · [repo](https://github.com/ShiiiivanshSingh/Pomodoro-App) |
+| Legal Champs | [live ↗](https://legalchamps.vercel.app/) · [repo](https://github.com/ShiiiivanshSingh/TECHNOVATION-HACKATHON-2025-Entry) |
+| ClearVision | [demo ↗](https://github.com/ShiiiivanshSingh/ClearVision/tree/main/DEMO#demo-img) · [repo](https://github.com/ShiiiivanshSingh/ClearVision) |
+
+</details>
+
+<details>
+<summary><b>Web — Fun & Artsy</b></summary>
+<br/>
+
+| Project | Links |
+|---|---|
+| Flag Guess | [live ↗](https://shiiiivanshsingh.github.io/Flag-Guess-/game.html) · [repo](https://github.com/ShiiiivanshSingh/Flag-Guess-) |
+| Overdrop | [live ↗](https://shiiiivanshsingh.github.io/Overdrop/) · [repo](https://github.com/ShiiiivanshSingh/Overdrop) |
+| MET Museum Art | [live ↗](https://shiiiivanshsingh.github.io/art/) · [repo](https://github.com/ShiiiivanshSingh/art) |
+| NASA Image Explorer | [live ↗](https://shiiiivanshsingh.github.io/nasa-img/) · [repo](https://github.com/ShiiiivanshSingh/nasa-img) |
+| DVD Logo Visuals | [live ↗](https://shiiiivanshsingh.github.io/dvd/main.html) · [repo](https://github.com/ShiiiivanshSingh/dvd) |
+| Magnolia Weather | [live ↗](https://shiiiivanshsingh.github.io/magnolia-weather/) · [repo](https://github.com/ShiiiivanshSingh/magnolia-weather) |
+| CS Map Veto Sim | [live ↗](https://shiiiivanshsingh.github.io/EZVeto/) · [repo](https://github.com/ShiiiivanshSingh/EZVeto) |
+| CS Callout Generator *(WIP)* | [live ↗](https://callouts-gg.netlify.app/) · [repo](https://github.com/ShiiiivanshSingh/Counter-Strike-Map-Callout-Guide) |
+
+</details>
+
+<details>
+<summary><b>Mobile Apps</b></summary>
+<br/>
+
+| App | Links |
+|---|---|
+| NoteWave | [download ↗](https://github.com/ShiiiivanshSingh/NoteWave/releases/tag/release) · [repo](https://github.com/ShiiiivanshSingh/NoteWave) |
+| Quick Weather | [download ↗](https://github.com/ShiiiivanshSingh/Quick-Weather/releases/tag/main) · [repo](https://github.com/ShiiiivanshSingh/Quick-Weather) |
+| Easy Fit | [repo ↗](https://github.com/ShiiiivanshSingh/HackOClock) |
+
+</details>
+
+<details>
+<summary><b>Browser Extensions</b></summary>
+<br/>
+
+| Extension | Links |
+|---|---|
+| FCB Score Tracker | [download ↗](https://github.com/ShiiiivanshSingh/fcb-score-tracker/releases/tag/build) · [repo](https://github.com/ShiiiivanshSingh/fcb-score-tracker) |
+| Dr. Brainrot | [download ↗](https://github.com/ShiiiivanshSingh/BrainRotTV/releases/tag/build2) · [repo](https://github.com/ShiiiivanshSingh/BrainRotTV) |
+
+</details>
+
+<br/>
+
+## 💻 Tech Stack
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiiiivanshSingh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
 
+| Languages | Frontend & Design |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=js,ts,python,cs,c" /> | <img src="https://skillicons.dev/icons?i=react,html,css,figma,ai" /> |
 
+| Backend & Tools | Other Technologies |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=django,nodejs,git,github,npm" /> | <img src="https://skillicons.dev/icons?i=tensorflow,blender,ae,nuxtjs" /> |
 
-<div align="center">
-  <h3>👁️ Profile Views</h3>
-  <img src="https://profile-counter.glitch.me/ShiiiivanshSingh/count.svg?" alt="Profile Views" />
 </div>
 
 <br/>
+
+---
+
+## 📊 GitHub Stats & Activity
+
 <div align="center">
-  <h3>💻 Tech Stack</h3>
-  
-  <details open>
-    <summary><b>Languages</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,c" />
-  </details>
 
-  <details open>
-    <summary><b>Frontend & Design</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=react,html,css,figma,ai" />
-  </details>
 
-  <details open>
-    <summary><b>Backend & Tools</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=django,nodejs,git,github,npm" />
-  </details>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiiiivanshSingh&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-  <details open>
-    <summary><b>Other Technologies</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=tensorflow,blender,ae,nuxtjs" />
-  </details>
 </div>
-
 
 <br/>
 
+---
+
+## 🎵 Recently Played
+
 <div align="center">
-  <h3>🎵 Recently Played</h3>
+
+<a href="https://open.spotify.com/user/a8al1zw8j5yx7z9t5izqd2ctf" target="_blank">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=a8al1zw8j5yx7z9t5izqd2ctf&width=1000&count=10" alt="Spotify Recently Played" />
+</a>
+
+</div>
+
+<br/>
+
+## 🎬 My Top Films
+
+<div align="center">
+
+| Film                                                                         | Year |
+| ---------------------------------------------------------------------------- | ---- |
+| **[My Night at Maud's](https://letterboxd.com/ShivanshSingh)**               | 1969 |
+| **[Adventures in Babysitting](https://letterboxd.com/ShivanshSingh)**        | 1987 |
+| **[The Apartment](https://letterboxd.com/ShivanshSingh)**                    | 1960 |
+| **[A Girl Walks Home Alone at Night](https://letterboxd.com/ShivanshSingh)** | 2014 |
+| **[Groundhog Day](https://letterboxd.com/ShivanshSingh)**                    | 1993 |
+| **[Magnolia](https://letterboxd.com/ShivanshSingh)**                         | 1999 |
+
+</div>
+<p align="center">
+🎞️ <a href="https://letterboxd.com/ShivanshSingh">see everything i'm watching on letterboxd</a>
+</p>
+
+<br/>
+
+---
+
+
+<div align="center">
+
+<br/><br/>
+
+*by shivansh pratap singh, last updated on holi 2026*
+
 </div>
