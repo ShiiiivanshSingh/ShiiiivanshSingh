@@ -1,10 +1,16 @@
 <div align="center">
 
 <a href="https://shiiiivanshsingh.github.io/intro/" target="_blank">
-  <img width="3168" height="792" alt="Shivansh Pratap Singh" src="https://github.com/user-attachments/assets/516ecf85-ed1e-4bcc-af8b-d00caae13485" />
+  <img width="3168" height="792" alt="Shivansh Pratap Singh" src="https://github.com/user-attachments/assets/74e33a6d-5d3a-40ce-81c6-edb19b1518fc" />
 </a>
+<!-- <a href="https://shiiiivanshsingh.github.io/intro/" target="_blank">
+  <img width="3168" height="792" alt="Shivansh Pratap Singh" src="https://github.com/user-attachments/assets/516ecf85-ed1e-4bcc-af8b-d00caae13485" />
+</a> -->
+<!--
+https://www.canva.com/design/DAGvUGNILWE/NDQukf9AHDzPOLxrgrBvAA/edit?utm_content=DAGvUGNILWE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+ <br/><img width="3168" height="792" alt="Shivansh Pratap Singh" src="https://github.com/user-attachments/assets/74e33a6d-5d3a-40ce-81c6-edb19b1518fc" /> -->
 
-<br/>
+
 
 # Hi there, I'm Shivansh Pratap Singh 👋
 
