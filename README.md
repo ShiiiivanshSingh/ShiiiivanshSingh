@@ -1,7 +1,11 @@
 <div align="center">
 
-<a href="https://shiiiivanshsingh.github.io/intro/" target="_blank">
+<!-- <a href="https://shiiiivanshsingh.github.io/intro/" target="_blank">
   <img width="3168" height="792" alt="Shivansh Pratap Singh" src="https://github.com/user-attachments/assets/74e33a6d-5d3a-40ce-81c6-edb19b1518fc" />
+</a> -->
+
+<a href="https://shiiiivanshsingh.github.io/intro/" target="_blank">
+  <img alt="Shivansh Pratap Singh" src="https://github.com/user-attachments/assets/74e33a6d-5d3a-40ce-81c6-edb19b1518fc" style="width:100%; height:auto; object-fit:contain;" />
 </a>
 <!-- <a href="https://shiiiivanshsingh.github.io/intro/" target="_blank">
   <img width="3168" height="792" alt="Shivansh Pratap Singh" src="https://github.com/user-attachments/assets/516ecf85-ed1e-4bcc-af8b-d00caae13485" />
