@@ -20,24 +20,21 @@ https://www.canva.com/design/DAGvUGNILWE/NDQukf9AHDzPOLxrgrBvAA/edit?utm_content
 
 <div align="center">
   
-## My Profiles
+<div align="center">
+
+### My Profiles
 
 <a href="https://linktr.ee/ShivanshPratapSingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=7430BA&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/shivansh-pratap-singh-23b3b92b1" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
-<a href="https://x.com/de_mirage_fan" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
+<a href="https://x.com/de_mirage_fan" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
 <a href="https://www.youtube.com/@shivanshpratapsingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
-<a href="https://letterboxd.com/ShivanshSingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=00D735&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>
-
-</div>
-
-<br/>
-
+<a href="https://letterboxd.com/ShivanshSingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=118C46&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>
 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ShivanshPratapSingh/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shivanshpratt8cf)
-[![Devfolio](https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/@ShivanshOF)
-[![DSA Stats](https://img.shields.io/badge/DSA_Stats-D6536D?style=for-the-badge&logo=chart.js&logoColor=white)](https://codolio.com/profile/sh1vansh)
+[![Devfolio](https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iMTIiIHk9IjE4IiBmb250LXNpemU9IjE4IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNmZmZmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkQ8L3RleHQ+PC9zdmc+)](https://devfolio.co/@ShivanshOF)
+[![DSA Stats](https://img.shields.io/badge/DSA_Stats-D6536D?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://codolio.com/profile/sh1vansh)
 
 </div>
 
@@ -195,6 +192,6 @@ https://www.canva.com/design/DAGvUGNILWE/NDQukf9AHDzPOLxrgrBvAA/edit?utm_content
 
 <br/><br/>
 
-*by shivansh pratap singh, last updated on holi 2026*
+*by shivansh pratap singh, last updated on aug 14*
 
 </div>
