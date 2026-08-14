@@ -16,16 +16,15 @@ https://www.canva.com/design/DAGvUGNILWE/NDQukf9AHDzPOLxrgrBvAA/edit?utm_content
 
 
 
-# Hi there, I'm Shivansh Pratap Singh 👋
-
-**Developer · DSA Enthusiast · Open Source Contributor**
-
 <br/>
 
-<a href="https://linktr.ee/ShivanshPratapSingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=00FFA2&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
+<div align="center">
+  
+## My Profiles
+
+<a href="https://linktr.ee/ShivanshPratapSingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=7430BA&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/shivansh-pratap-singh-23b3b92b1" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
 <a href="https://x.com/de_mirage_fan" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
-<a href="https://www.instagram.com/shivansh___siingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
 <a href="https://www.youtube.com/@shivanshpratapsingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;
 <a href="https://letterboxd.com/ShivanshSingh" target="_blank"><img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=00D735&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>
 
@@ -33,13 +32,9 @@ https://www.canva.com/design/DAGvUGNILWE/NDQukf9AHDzPOLxrgrBvAA/edit?utm_content
 
 <br/>
 
-<div align="center">
-  
-## 🔗 Coding Profiles
 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ShivanshPratapSingh/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sha-vinshi)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shivanshpratt8cf)
 [![Devfolio](https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/@ShivanshOF)
 [![DSA Stats](https://img.shields.io/badge/DSA_Stats-D6536D?style=for-the-badge&logo=chart.js&logoColor=white)](https://codolio.com/profile/sh1vansh)
@@ -179,12 +174,13 @@ https://www.canva.com/design/DAGvUGNILWE/NDQukf9AHDzPOLxrgrBvAA/edit?utm_content
 | Film                                                                         | Year |
 | ---------------------------------------------------------------------------- | ---- |
 | **[My Night at Maud's](https://letterboxd.com/ShivanshSingh)**               | 1969 |
-| **[Adventures in Babysitting](https://letterboxd.com/ShivanshSingh)**        | 1987 |
-| **[The Apartment](https://letterboxd.com/ShivanshSingh)**                    | 1960 |
-| **[A Girl Walks Home Alone at Night](https://letterboxd.com/ShivanshSingh)** | 2014 |
-| **[Groundhog Day](https://letterboxd.com/ShivanshSingh)**                    | 1993 |
 | **[Magnolia](https://letterboxd.com/ShivanshSingh)**                         | 1999 |
-
+| **[Petite Maman](https://letterboxd.com/ShivanshSingh)**                     | 2021 |
+| **[The Apartment](https://letterboxd.com/ShivanshSingh)**                    | 1960 |
+| **[Adventures in Babysitting](https://letterboxd.com/ShivanshSingh)**        | 1987 |
+| **[A Girl Walks Home Alone at Night](https://letterboxd.com/ShivanshSingh)** | 2014 |
+| **[Maelström](https://letterboxd.com/ShivanshSingh)**                        | 2000 |
+| **[Bend It Like Beckham](https://letterboxd.com/ShivanshSingh)**             | 2002 |
 </div>
 <p align="center">
 🎞️ <a href="https://letterboxd.com/ShivanshSingh">see everything i'm watching on letterboxd</a>
