@@ -143,8 +143,11 @@ https://www.canva.com/design/DAGvUGNILWE/NDQukf9AHDzPOLxrgrBvAA/edit?utm_content
 
 <div align="center">
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiiiivanshSingh&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShiiiivanshSingh/ShiiiivanshSingh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShiiiivanshSingh/ShiiiivanshSingh/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/ShiiiivanshSingh/ShiiiivanshSingh/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -157,7 +160,9 @@ https://www.canva.com/design/DAGvUGNILWE/NDQukf9AHDzPOLxrgrBvAA/edit?utm_content
 <div align="center">
 
 <a href="https://open.spotify.com/user/a8al1zw8j5yx7z9t5izqd2ctf" target="_blank">
+  
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=a8al1zw8j5yx7z9t5izqd2ctf&width=1000&count=10" alt="Spotify Recently Played" />
+  
 </a>
 
 </div>
